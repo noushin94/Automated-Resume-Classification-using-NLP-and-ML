@@ -1,5 +1,8 @@
 # 📄 Automated Resume Classification using NLP and ML
 
+![image](https://github.com/user-attachments/assets/0cd4b35e-2de0-457d-b073-579155ff36e0)
+
+
 ## 📚 Introduction
 
 In today's fast-paced job market, recruiters and hiring managers often face the daunting task of sifting through hundreds or even thousands of resumes for a single job opening. Automated resume classification and parsing can significantly streamline this process, ensuring that the most relevant candidates are identified quickly and efficiently. By leveraging Natural Language Processing (NLP) and Machine Learning (ML), this project aims to classify resumes for different job roles, ultimately enhancing recruitment efficiency and effectiveness.
